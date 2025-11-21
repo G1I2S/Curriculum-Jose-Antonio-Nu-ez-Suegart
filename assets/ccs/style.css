@@ -1,0 +1,14 @@
+.info {
+  display: flex;
+  align-items: left;
+  padding: 2rem;
+}
+
+.container {
+  display: flex;
+  justify-content:left;
+}
+
+footer {
+  color: aliceblue;
+}
